@@ -9,3 +9,5 @@ datahem currently includes:
 * **[processor](https://github.com/mhlabs/datahem.processor):** Processor to process bounded and unbounded data and write to PubSub and BigQuery, currently using Google Dataflow (Apache Beam) and supports processing of Google Analytics hits and AWS Kinesis events
 * **[serializer](https://github.com/mhlabs/datahem.serializer):** Serializer to serialize structured data in datahem, currently using protocol buffers
 * **[infrastructor](https://github.com/mhlabs/datahem.infrastructor):** Infrastructure as code to easily setup API:s and services necessary for datahem, currently using Google Deployment Manager
+
+datahem was started in June 2017 by [robertsahlin](https://github.com/robertsahlin) / [ML-engineer](https://github.com/ML-engineer). It was open sourced and officially brought under Mathem's mhlabs Github account and announced in May 2018.
