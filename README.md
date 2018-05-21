@@ -11,6 +11,10 @@ datahem is licensed under [MIT](https://opensource.org/licenses/MIT)
 * **[processor](https://github.com/mhlabs/datahem.processor):** Process bounded and unbounded data and write to PubSub and BigQuery, currently using Google Dataflow (Apache Beam) and supports processing of Google Analytics hits and AWS Kinesis events
 * **[serializer](https://github.com/mhlabs/datahem.serializer):** Serialize structured data in datahem, currently using protocol buffers
 * **[infrastructor](https://github.com/mhlabs/datahem.infrastructor):** Infrastructure as code to easily setup API:s and services necessary for datahem, currently using Google Deployment Manager
+* **predictor** (backlog) predictions made on streaming data
+* **pseudonymizor** (backlog) pseudonymizing personal and/or sensitive data
+* **ruler** (backlog) processing rules for personal data
+* **activator** (backlog) serving predictions via REST/gRPC
 
 # Setup
 [Follow instructions in wiki how to set up the various parts in datahem](https://github.com/mhlabs/datahem/wiki/Setup)
