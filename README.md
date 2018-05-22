@@ -11,7 +11,7 @@ datahem gives you scalability
 
 # Use cases
 
-## Digital Analytics
+## 1. Digital Analytics
 The first use is to leverage your implementation of Google Analytics / Measurement Protocol. Google Analytics is awesome, but has some limitations worth to address in order to take reporting, analytics and machine learning to the next level. By adding a custom task to your Google Analytics tracker, datahem eliminates many of the limitations of both the free and the premium version of Google Analytics and gives you:
 - Unsampled data
 - Real-time data
