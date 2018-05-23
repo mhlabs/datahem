@@ -45,6 +45,7 @@ The architecute of DataHem consists of loosely coupled parts to enable future re
 * **pseudonymizor** (backlog) pseudonymizing personal and/or sensitive data
 * **ruler** (backlog) processing rules for personal data
 * **activator** (backlog) serving predictions via REST/gRPC
+* **orchestrator** (backlog) workflow management DAGs using Google Cloud Composer
 
 # Setup
 [Follow instructions in wiki how to set up the various parts in DataHem](https://github.com/mhlabs/datahem/wiki/Setup)
