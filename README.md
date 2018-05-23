@@ -1,13 +1,20 @@
 # Overview
-A serverless real-time end-2-end ML pipeline built entirely on Google Cloud Platform services - AppEngine, PubSub, Dataflow, BigQuery and Cloud ML
+datahem is a serverless real-time end-2-end ML pipeline built entirely on Google Cloud Platform services - AppEngine, PubSub, Dataflow, BigQuery and Cloud ML.
+
+The name DataHem is a play of words to resemble MatHem, the Swedish online grocery store where DataHem is developed, mainly by Robert Sahlin. "Data" = "data". "Hem" = the swedish word for "Home".
 
 # Benefits
-datahem gives you full control and ownership of your data
-datahem gives you unsampled data in real time
-datahem gives you the ability to replay/reprocess your data unlimited times
-datahem gives you data synergies -> collect once and use for multiple purposes (reporting, analytics and machine learning)
-datahem gives you low cost of operations and maintenance
-datahem gives you scalability
+When building ML/Data products, your most valuable asset is your data. Hence, the purpose of datahem is to give you:
+
+1. full control and ownership of your data
+2. unsampled data
+3. data in real time
+4. the ability to replay/reprocess your data unlimited times
+5. data synergies -> collect once and use for multiple purposes (reporting, analytics and building data/ML products)
+6. low cost of operations and maintenance
+7. scalability
+8. data as a stream and at rest
+9. activation of data
 
 # Use cases
 
