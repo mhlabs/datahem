@@ -16,7 +16,7 @@ When building ML/Data products, your most valuable asset is your data. Hence, th
 
 # Target architecture
 
-![Target architecture](https://github.com/mhlabs/datahem/raw/master/images/architecture.PNG)
+![Target architecture](https://github.com/mhlabs/datahem/raw/master/images/target_architecture.PNG)
 
 # Use cases
 
