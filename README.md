@@ -13,6 +13,7 @@ When building ML/Data products, your most valuable asset is your data. Hence, th
 7. scalability
 8. data as a stream and at rest
 9. activation of data
+10. ability to delete data on a row by row basis
 
 # Target architecture
 
