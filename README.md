@@ -32,7 +32,7 @@ The first use is to leverage your implementation of Google Analytics / Measureme
 - No licensing fees (open source)
 
 # License
-DataHem is licensed under [MIT](https://opensource.org/licenses/MIT)
+DataHem is licensed under [AGPL 3.0 or later](https://opensource.org/licenses/AGPL-3.0)
 
 # DataHem ecosystem
 The architecute of DataHem consists of loosely coupled parts to enable future replacements and extensions of parts.
